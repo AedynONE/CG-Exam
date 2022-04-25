@@ -1,0 +1,10 @@
+Aedyn Timm-Bradley 
+100787911 
+100%
+04/25/2022
+
+I've done as much as I can in Blender
+post proccessing effect is depth of field, applied to the camera
+shadows can be seen being produced by 2 lights in the scene (bright white light, and a dimmer red light)
+I created a hair particle system to simulate grass and applied it to the ground plane
+textures were created in Substance painter, using materials that I have rights to use without providing credit
